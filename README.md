@@ -17,3 +17,13 @@ v) Insightful Dashboards: Created interactive and informative dashboards providi
 
 ### Objective:
 The primary goal is to provide a user-friendly and insightful financial reporting system in Power BI, empowering stakeholders with the necessary tools to make informed financial decisions.
+
+![Alt Text](ascfs.jpg)
+
+![Alt Text](Untitleddc.jpg)
+
+![Alt Text](scsdv.jpg)
+
+![Alt Text](csc.jpg)
+
+
