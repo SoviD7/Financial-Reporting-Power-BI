@@ -1,0 +1,13 @@
+{
+
+"name": "Colours",
+
+"dataColors": [ "#00AEB9", "#5ABAC4", "#007184", "#8ECBD2", "#21A192", "#38C0EE", "#009DDE", "#00476A" ],
+
+"background":"#FFFFFF",
+
+"foreground": "#1b7eac",
+
+"tableAccent":"#5cbae5"
+
+}
